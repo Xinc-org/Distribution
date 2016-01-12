@@ -15,42 +15,23 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Xinc-org/Xinc.Composer",
-            "tags-path": false,
-            "branches-path": false,
-            "package-path": "Xinc.Composer"
+            "url": "https://github.com/Xinc-org/Xinc.Composer"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/Xinc-org/Xinc.Core",
-            "trunk-path": false,
-            "tags-path": false,
-            "branches-path": false,
-            "package-path": "Xinc.Core"
+            "url": "https://github.com/Xinc-org/Xinc.Core"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/Xinc-org/Xinc.Packager",
-            "trunk-path": false,
-            "tags-path": false,
-            "branches-path": false,
-            "package-path": "Xinc.Packager"
+            "url": "https://github.com/Xinc-org/Xinc.Packager"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/Xinc-org/Xinc.Server",
-            "trunk-path": false,
-            "tags-path": false,
-            "branches-path": false,
-            "package-path": "Xinc.Server"
+            "url": "https://github.com/Xinc-org/Xinc.Server"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/Xinc-org/Xinc.Trigger",
-            "trunk-path": false,
-            "tags-path": false,
-            "branches-path": false,
-            "package-path": "Xinc.Trigger"
+            "url": "https://github.com/Xinc-org/Xinc.Trigger"
         }
     ]
 }
