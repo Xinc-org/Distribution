@@ -12,11 +12,24 @@ What is Xinc
 
 Xinc is a server system to manage continous integration and monitoring.
 
+What is Distribution
+--------------------
+
+This repository will hold all informations and files which are needed to install the products completely on a fresh
+system. Or to build packages and all such things.
+
 Xinc System Requirements
 ------------------------
 
 * PHP 5.5 or newer
 * composer
+
+HowTo install Xinc.Server
+-------------------------
+
+* Put the composer.json into an empty directory.
+* Call "/path/to/your/composer[.phar] install"
+* All needed packages will be installed now.
 
 Xinc Resources
 --------------
