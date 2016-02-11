@@ -1,6 +1,8 @@
 {
     "name": "xinc/xinc-core-distribution",
     "description" : "Xinc core distribution",
+    "keywords" : ["continues integration", "testing", "automation", "build tool"],
+    "homepage" : "https://github.com/Xinc-org",
     "license": "LGPL-3.0+",
     "config": {
         "vendor-dir": "Packages/Libraries",
